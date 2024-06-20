@@ -36,8 +36,8 @@ Press F5 to build and run the application.
 
 ## Usage
 - **View Submissions:**
-Click View Submissions or press Ctrl + V.
-Use Previous (Ctrl + P) and Next (Ctrl + N) to navigate through submissions.
+-- Click View Submissions or press Ctrl + V.
+-- Use Previous (Ctrl + P) and Next (Ctrl + N) to navigate through submissions.
 
 Create New Submission:
 Click Create New Submission or press Ctrl + N.
