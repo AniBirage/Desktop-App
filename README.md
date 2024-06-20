@@ -16,7 +16,7 @@ This is a Windows Desktop Application created using Visual Studio with Visual Ba
 - **Next Submission**: `Ctrl + N`
 - **Toggle Stopwatch**: `Ctrl + T`
 - **Submit**: `Ctrl + S`
-- 
+
 
 
 ## Installation
