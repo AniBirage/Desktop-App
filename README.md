@@ -29,13 +29,13 @@ Open Visual Studio.
 Select File > Open > Project/Solution.
 Navigate to the cloned repository folder and select the .sln file.
 
-4. Build and Run the project:
+3. Build and Run the project:
 Press F5 to build and run the application.
 
 
 
-Usage
-View Submissions:
+## Usage
+- **View Submissions:**
 Click View Submissions or press Ctrl + V.
 Use Previous (Ctrl + P) and Next (Ctrl + N) to navigate through submissions.
 
