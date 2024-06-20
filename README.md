@@ -35,15 +35,15 @@ Press F5 to build and run the application.
 
 
 ## Usage
-- **View Submissions:**
-- Click View Submissions or press Ctrl + V.
-- Use Previous (Ctrl + P) and Next (Ctrl + N) to navigate through submissions.
+- **View Submissions**:
+Click View Submissions or press Ctrl + V.
+Use Previous (Ctrl + P) and Next (Ctrl + N) to navigate through submissions.
 
-Create New Submission:
+- **Create New Submission**:
 Click Create New Submission or press Ctrl + N.
 Fill in the required fields.
 Use the stopwatch by pressing Ctrl + T.
 Click Submit or press Ctrl + S to submit the form.
 
-API Integration
+- **API Integration**:
 The application interacts with a backend server to save and retrieve submissions.
