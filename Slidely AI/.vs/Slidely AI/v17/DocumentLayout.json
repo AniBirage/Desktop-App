@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\MainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:Slidely AI\\MainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|c:\\users\\apsbi\\source\\repos\\slidely ai\\slidely ai\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:slidely ai\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|c:\\users\\apsbi\\source\\repos\\slidely ai\\slidely ai\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:slidely ai\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:Slidely AI\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:Slidely AI\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:Slidely AI\\ViewSubmissionsForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:Slidely AI\\CreateSubmissionForm.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:Slidely AI\\ViewSubmissionsForm.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\My Project\\Application.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43DE780D-4EB4-41A9-A71C-77E9BFDA9E85}|Slidely AI\\Slidely AI.vbproj|solutionrelative:Slidely AI\\My Project\\Application.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\MainForm.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\MainForm.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\MainForm.vb [Design]",
+              "RelativeToolTip": "Slidely AI\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T20:46:52.994Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "Slidely AI\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:59:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "Slidely AI\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:29:49.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "Slidely AI\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T12:59:50.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\MainForm.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\MainForm.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\MainForm.vb",
+              "RelativeToolTip": "Slidely AI\\MainForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA1wA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:12:04.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSubmissionForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\CreateSubmissionForm.Designer.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.Designer.vb",
+              "RelativeToolTip": "Slidely AI\\CreateSubmissionForm.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T15:53:08.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "Slidely AI\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T14:03:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Slidely AI\\My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:19:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewSubmissionsForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.Designer.vb",
+              "RelativeDocumentMoniker": "Slidely AI\\ViewSubmissionsForm.Designer.vb",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely AI\\Slidely AI\\ViewSubmissionsForm.Designer.vb",
+              "RelativeToolTip": "Slidely AI\\ViewSubmissionsForm.Designer.vb",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAANYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T18:30:06.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

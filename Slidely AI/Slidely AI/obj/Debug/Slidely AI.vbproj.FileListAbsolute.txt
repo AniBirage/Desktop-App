@@ -1,0 +1,27 @@
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely AI.vbproj.AssemblyReference.cache
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely_AI.CreateSubmissionForm.resources
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely_AI.MainForm.resources
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely_AI.Resources.resources
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely_AI.ViewSubmissionsForm.resources
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely AI.vbproj.GenerateResource.cache
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely AI.vbproj.CoreCompileInputs.cache
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\Slidely AI.exe.config
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\Slidely AI.exe
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\Slidely AI.pdb
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\Slidely AI.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Buffers.dll
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Memory.dll
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Buffers.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Memory.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely AI.vbproj.Up2Date
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely AI.exe
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely AI.xml
+C:\Users\apsbi\source\repos\Slidely AI\Slidely AI\obj\Debug\Slidely AI.pdb
